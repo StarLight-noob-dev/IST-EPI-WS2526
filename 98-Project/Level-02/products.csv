@@ -1,0 +1,21 @@
+name,price,category,inventory_quantity
+Pasta,1.00,Pantry,7
+Banana,0.30,Fruit,1
+Milk,1.20,Dairy,4
+Croissant,1.30,Bakery,3
+Yogurt,0.90,Dairy,6
+Cheese,2.50,Dairy,2
+Bread,1.00,Bakery,5
+Eggs,2.20,Pantry,8
+Onion,0.25,Vegetables,18
+Orange,0.60,Fruit,9
+Tomato,0.40,Vegetables,11
+Rice,1.80,Pantry,1
+Chocolate Bar,0.90,Snacks,9
+Chicken Breast,4.50,Meat,3
+Potato,0.20,Vegetables,2
+Salmon,5.50,Fish,15
+Chips,1.50,Snacks,7
+Tuna Can,1.40,Fish,6
+Apple,0.50,Fruit,12
+Beef Steak,6.80,Meat,2
